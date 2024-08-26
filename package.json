@@ -2,7 +2,7 @@
   "name": "lorem-alan",
   "displayName": "Lorem Alan",
   "description": "Generate Alan Partridgesque Lorem Ipsum text",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "JohnnyHall",
   "engines": {
     "vscode": "^1.92.0"
