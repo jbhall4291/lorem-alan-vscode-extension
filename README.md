@@ -1,65 +1,39 @@
-# lorem-alan README
+# Lorem Alan
 
-This is the README for your extension "lorem-alan". After writing up a brief description, we recommend including the following sections.
+## Overview
+Lorem Alan is a fun and quirky VS Code extension that generates Lorem Ipsum text inspired by the iconic Alan Partridge. Perfect for adding a touch of humor and uniqueness to your placeholder text.
 
 ## Features
+- Generates a single random Alan Partridge quote as placeholder text.
+- Easy to use and integrates seamlessly into VS Code.
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+## Installation
+- Open VS Code.
+- Go to Extensions: You can open the Extensions view by clicking the Extensions icon in the Activity Bar on the side of the window or by pressing Ctrl+Shift+X (or Cmd+Shift+X on macOS).
+Search for "Alan Partridge Lorem Ipsum" in the Extensions marketplace.
+- Click "Install" to add the extension to your VS Code setup.
+- Alternatively, you can install the extension directly from the VS Code marketplace using this link... link pending after publishing!
 
-For example if there is an image subfolder under your extension project workspace:
+## Usage
+- Wherever you need some Alan, hit Ctrl+Shift+Alt+A (or Ctrl+Shift+Option+A on macOS) to insert placeholder text.
+- Alternatively, open the Command Palette by pressing Ctrl+Shift+P (or Cmd+Shift+P on macOS), type "Generate Lorem Alan Text" and select it from the list.
+- A random Alan Partridge quote will be inserted at the current cursor position or replace the selected text.
 
-\!\[feature X\]\(images/feature-x.png\)
+## Configuration
+Currently, the extension does not require any configuration. Simply install and use!
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+## Contributing
+Contributions are welcome! If you have ideas for new features or improvements, feel free to fork and submit a pull request with your changes and a description of what you have done.
 
-## Requirements
+[GitHub Repository for Lorem Alan](https://github.com/jbhall4291/lorem-alan-vscode-extension)
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
 
-## Extension Settings
+## License
+This extension is licensed under the MIT License. See the LICENSE file for details.
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+## Contact
+For any issues or questions, please reach out to me at jbhall4291@gmail.com
 
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Acknowledgments
+- Alan Partridge for providing such memorable quotes!
+- Visual Studio Code for the fantastic development environment.
