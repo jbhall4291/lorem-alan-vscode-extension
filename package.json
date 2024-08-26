@@ -17,7 +17,7 @@
     "commands": [
       {
         "command": "lorem-alan.generate",
-        "title": "Generate Alan Partridgesque Lorem Ipsum"
+        "title": "Generate Lorem Alan Text"
       }
     ],
     "keybindings": [
