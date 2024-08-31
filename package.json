@@ -1,8 +1,8 @@
 {
   "name": "lorem-alan",
   "displayName": "Lorem Alan",
-  "description": "Generate Alan Partridgesque Lorem Ipsum text",
-  "version": "0.0.3",
+  "description": "Generates Lorem Ipsum text with an Alan Partridge twist. Back of the net!",
+  "version": "0.0.5",
   "publisher": "JohnnyHall",
   "engines": {
     "vscode": "^1.92.0"
