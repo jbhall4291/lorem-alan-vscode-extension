@@ -36,7 +36,10 @@ This extension is licensed under the MIT License. See the LICENSE file for detai
 
 
 ## Contact
-For any issues or questions, please reach out to me at jbhall4291@gmail.com
+For any issues or questions, please reach out to me at jbhall4291@gmail.com.
+
+This extension was created to add a bit of humour to my developer workflow - you can find more of my projects [on my website](https://johnnyhall.dev).  
+
 
 
 ## Acknowledgments
