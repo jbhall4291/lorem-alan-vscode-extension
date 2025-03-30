@@ -110,7 +110,7 @@ function activate(context) {
 		];
 
 
-		const randomQuote = alanQuotes[Math.floor(Math.random() * alanQuotes.length)];
+		const randomQuote = `${alanQuotes[Math.floor(Math.random() * alanQuotes.length)]} `;
 
 		const editor = vscode.window.activeTextEditor;
 		if (editor) {
