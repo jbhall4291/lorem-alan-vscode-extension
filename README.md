@@ -1,7 +1,7 @@
 # Lorem Alan
 
 ## Overview
-Lorem Alan is a fun and quirky VS Code extension that generates Lorem Ipsum text inspired by the iconic Alan Partridge. Perfect for adding a touch of humor and uniqueness to your placeholder text.
+Lorem Alan is a fun and quirky [VS Code extension](https://marketplace.visualstudio.com/items?itemName=JohnnyHall.lorem-alan) that generates Lorem Ipsum text inspired by the iconic Alan Partridge. Perfect for adding a touch of humor and uniqueness to your placeholder text.
 
 
 ## Features
